@@ -5,6 +5,6 @@ Hi, I’m owen @terrapinball 👋
 
 Certified in <strong>CompTIA Sec+</strong> and <strong>AWS Cloud Practitioner</strong> 🌱
 
-📫 Connect with me && drop me a line!
-        [linkedin/in/owenxdavies](https://www.linkedin.com/in/owenxdavies/)
+📫 Connect with me && drop me a line! <br>
+        [linkedin/in/owenxdavies](https://www.linkedin.com/in/owenxdavies/) <br>
         owendavies802@gmail.com
