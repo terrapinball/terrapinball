@@ -1,5 +1,5 @@
 
-Hi, I’m owen @terrapinball 👋
+Hello, I'm Owen 👋
 
 🤖 I like fast and secure computers and networks
 
