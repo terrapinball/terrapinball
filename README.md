@@ -5,6 +5,6 @@ Hello, I'm Owen 👋
 
 Certified in <strong>CompTIA Sec+</strong> and <strong>AWS Cloud Practitioner</strong> 🌱
 
-📫 Connect with me <br><br>
+📫 Can type and even write by hand
         [linkedin/in/owenxdavies](https://www.linkedin.com/in/owenxdavies/) <br>
         owendavies802@gmail.com
